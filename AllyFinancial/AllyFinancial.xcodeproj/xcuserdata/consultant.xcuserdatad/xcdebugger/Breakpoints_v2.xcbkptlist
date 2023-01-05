@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0108F2D8-0899-437B-AE2E-A265027DB381"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FD92D47-DBB4-42C6-88BA-9325257B8206"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AllyFinancial/Views/SnapshotViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SnapshotViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2FD92D47-DBB4-42C6-88BA-9325257B8206 - 25f546ab79d5e3cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AllyFinancial.SnapshotViewController.snapshotLabel.getter : __C.UILabel"
+                  moduleName = "AllyFinancial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Projects/AllyFinancial/AllyFinancial/Views/SnapshotViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "186">
+               </Location>
+               <Location
+                  uuid = "2FD92D47-DBB4-42C6-88BA-9325257B8206 - e44b42a55d436247"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UILabel in AllyFinancial.SnapshotViewController.snapshotLabel.getter : __C.UILabel"
+                  moduleName = "AllyFinancial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Projects/AllyFinancial/AllyFinancial/Views/SnapshotViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "2FD92D47-DBB4-42C6-88BA-9325257B8206 - cf0f3242ee4b0933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AllyFinancial.SnapshotViewController.snapshotLabel.setter : __C.UILabel"
+                  moduleName = "AllyFinancial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Projects/AllyFinancial/AllyFinancial/Views/SnapshotViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "2FD92D47-DBB4-42C6-88BA-9325257B8206 - 57aaeda104fa9c40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AllyFinancial.SnapshotViewController.snapshotLabel.modify : __C.UILabel"
+                  moduleName = "AllyFinancial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Projects/AllyFinancial/AllyFinancial/Views/SnapshotViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2FD92D47-DBB4-42C6-88BA-9325257B8206 - 550c1654171a273a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AllyFinancial.SnapshotViewController.snapshotLabel.modify : __C.UILabel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AllyFinancial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Projects/AllyFinancial/AllyFinancial/Views/SnapshotViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "2FD92D47-DBB4-42C6-88BA-9325257B8206 - 136af4eadc117a05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AllyFinancial.SnapshotViewController.init(navigationController: __C.UINavigationController, tabModelType: AllyFinancial.TabViewModelType) -&gt; AllyFinancial.SnapshotViewController"
+                  moduleName = "AllyFinancial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Projects/AllyFinancial/AllyFinancial/Views/SnapshotViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "2FD92D47-DBB4-42C6-88BA-9325257B8206 - 86917ccd5406528c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AllyFinancial.SnapshotViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AllyFinancial.SnapshotViewController&gt;"
+                  moduleName = "AllyFinancial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Documents/Projects/AllyFinancial/AllyFinancial/Views/SnapshotViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
